@@ -4,7 +4,7 @@
 
 ### Project Overview
 
-As someone who already has some experience with survey design and analysis, the purpose of this project will be to expand my knowledge in the area and acquire new skills/techniques specifically related to **structural equation modeling** (SEM). Although I did not choose to focus specifically on Health Data Science or Biostatistics, I believe this project will still align with the broader content of my program, as it will involve the manipulation and analysis of large datasets using tools and techniques that I have previously developed in my graduate studies at the University of Calgary.
+As someone who already has some experience with survey design and analysis, the purpose of this project will be to expand my knowledge in the area and acquire new skills/techniques specifically related to **structural equation modeling** (SEM). Although I have not choosen to focus specifically on Health Data Science or Biostatistics, I believe this project will still align with the broader content of my program, as it will involve the manipulation and analysis of large datasets using tools and techniques that I have previously developed in my graduate studies at the University of Calgary.
 
 Generally speaking, the objectives of this project will be:
 
