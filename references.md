@@ -1,4 +1,4 @@
-# References
+# Bibliography
 
 1. Akinremi, B. (2024, October 2). *Structural Equation Modeling: What It Is and When to Use It*. DataCamp. https://www.datacamp.com/tutorial/structural-equation-modeling
 
